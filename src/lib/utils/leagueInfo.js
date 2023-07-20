@@ -8,11 +8,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the Any Given Sunday Dynasty Fantasy Football Page! This league has been around in some shape or fashion since around 2001. What started out as a small 8-team standard scoring hobby league has become the most fun, competitive, and engaging dynasty league there is!</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Each year we are competing not just for the 'ship, but for bragging rights and proof of superiority over our leaguemates. Only truly skilled managers have what it takes to build a Dynasty, secure 3 championships, and force a vote to reset or continue with current rosters.</p>
+  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
+  <p>There has been some turnover in managers, and while anyone who has participated is part of the AGS family, the league has only gotten stronger. With more passionate managers, the competition will continue to become more intense and more difficult each year.</p>
+  <p>While the ultimate prize is bragging rights and constantly sending obnoxious messages to the rest of the league in the chat, the champion manager also walks away with fat stacks and the knowledge that they are one step closer to securing their legacy as the first ever AGS Dynasty Champion!</p>
+  <p>And remember, anything can happen on Any Given Sunday!</p>
 `;
 
 /*   STEP 3   */
